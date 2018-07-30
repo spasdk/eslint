@@ -1,0 +1,28 @@
+{
+    "name": "@spasdk/eslint",
+    "version": "1.0.0",
+    "description": "General-purpose eslint linting.",
+    "author": {
+        "name": "Stanislav Kalashnik",
+        "email": "darkpark.main@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/spasdk/eslint.git"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "dependencies": {
+        "@cjssdk/eslint": "^1.0.1"
+    },
+    "keywords": [
+        "commonjs",
+        "cjs",
+        "sdk",
+        "spasdk",
+        "framework",
+        "eslint"
+    ],
+    "license": "GPL-3.0"
+}
