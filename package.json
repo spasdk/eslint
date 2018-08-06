@@ -14,8 +14,7 @@
         "cjs-eslint": "^1.1.1"
     },
     "keywords": [
-        "commonjs",
-        "cjs",
+        "spa",
         "sdk",
         "spasdk",
         "framework",
