@@ -1,6 +1,6 @@
 {
-    "name": "@spasdk/eslint",
-    "version": "1.0.1",
+    "name": "spa-eslint",
+    "version": "1.0.0",
     "description": "General-purpose eslint linting.",
     "author": {
         "name": "Stanislav Kalashnik",
@@ -10,14 +10,8 @@
         "type": "git",
         "url": "https://github.com/spasdk/eslint.git"
     },
-    "bin": {
-        "eslint": "./node_modules/.bin/eslint"
-    },
-    "publishConfig": {
-        "access": "public"
-    },
     "dependencies": {
-        "@cjssdk/eslint": "^1.0.1"
+        "cjs-eslint": "^1.1.1"
     },
     "keywords": [
         "commonjs",

@@ -8,7 +8,7 @@
 // public
 module.exports = {
     // base rules
-    extends: require.resolve('@cjssdk/eslint'),
+    extends: require.resolve('cjs-eslint'),
 
     env: {
         node: true,
