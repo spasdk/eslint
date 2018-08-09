@@ -10,7 +10,7 @@ General-purpose eslint linting
 ## Installation ##
 
 ```bash
-npm install spa-eslint
+npm install spa-eslint --save-dev
 ```
 
 
